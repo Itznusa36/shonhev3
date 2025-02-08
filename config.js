@@ -1,4 +1,4 @@
-
+.
 const chalk = require("chalk")
 const fs = require("fs")
 global.namastore = "SHONHE DOESN'T HAVE A SHOP"
